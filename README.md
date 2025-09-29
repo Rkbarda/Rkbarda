@@ -1,12 +1,17 @@
 # 👋 Hi, I'm Ravi Kumar
 
-🚀 Full Stack Developer in the making | 💻 Passionate about building modern web apps | 📱 Exploring mobile dev | 🌱 Learning everyday
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700\&lines=Hi+I'm+Ravi+Kumar;Full+Stack+Developer;Coding+%7C+Learning+%7C+Building)](https://git.io/typing-svg)
+
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>  
+
+🚀 Full Stack Developer in the making
+💻 Passionate about building modern web apps
+📱 Exploring mobile dev
+🌱 Learning everyday
 
 ---
 
 ## 🔧 Tech Stack
-
-**Languages & Tools I use:**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,react,nodejs,express,mongodb,mysql,tailwind,bootstrap" />
@@ -23,7 +28,23 @@
 
 ---
 
-## 🌟 Projects Highlights
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ravi-github&theme=tokyonight" />
+</p>  
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ravi-github&theme=onedark&no-frame=true&margin-w=5&row=1&column=6" />
+</p>  
+
+---
+
+## 🌟 Project Highlights
 
 * 🏏 **Cricket Scoreboard App** – Real-time cricket match display with WebSocket
 * 📚 **Maths Learning PDF** – Fun, cartoon-styled NCERT guide for students
